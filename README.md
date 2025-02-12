@@ -1,4 +1,11 @@
-## Olá, Sou a Hayanna Yohara!!!
+![Banner de boas-vindas](link_do_banner)
+# Olá! Seja bem-vindo ao meu GitHub! ✨🌈
+Eu sou uma desenvolvedora que tem um leve flerte por código e criatividade! 😄💻
+
+## Sobre mim 🧸
+- 🎨 Curto desenhar.
+- 🐱 Apaixonada por gatos.
+- 🚀 Sempre buscando aprender algo novo!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayhay07&show_icons=true&theme=light)
