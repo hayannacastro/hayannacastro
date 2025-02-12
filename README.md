@@ -1,4 +1,4 @@
-![Banner de boas-vindas](link_do_banner)
+
 # Olá! Seja bem-vindo ao meu GitHub! ✨🌈
 Eu sou uma desenvolvedora que tem um leve flerte por código e criatividade! 😄💻
 
