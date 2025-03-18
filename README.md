@@ -24,4 +24,4 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ğŸ˜
 
 ![download20250302090914](https://github.com/user-attachments/assets/34f484e1-8bc5-42d2-9e15-a9bdf0e950e0)
 ##
-<https://hayhay07.github.io/snake/>
+
