@@ -10,6 +10,8 @@ Eu sou uma desenvolvedora que tem um leve flerte por código e criatividade! �
 - 🎨 Curto desenhar.
 - 🐱 Apaixonada por gatos.
 - 🚀 Sempre buscando aprender algo novo!
+- 🎯curiosidade : sou jogadora de vôlei.
+- 📚 Gosto muito de Química.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayhay07&show_icons=true&theme=light)
