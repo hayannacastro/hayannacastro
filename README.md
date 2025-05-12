@@ -14,8 +14,8 @@ Eu sou uma desenvolvedora que tem um leve flerte por código e criatividade! �
 - 📚 Gosto muito de Química.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayhay07&show_icons=true&theme=light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayhay07)](https://github.com/hayhay07/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayannacastro&show_icons=true&theme=light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayannacastro)](https://github.com/hayannacastro/github-readme-stats)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
