@@ -34,6 +34,8 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ğŸ˜
  </a>
  <a href = "mailto:hayanna.castro07@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![download20250302090914](https://github.com/user-attachments/assets/34f484e1-8bc5-42d2-9e15-a9bdf0e950e0)
+<div align="center">
+    <img![download20250302090914](https://github.com/user-attachments/assets/34f484e1-8bc5-42d2-9e15-a9bdf0e950e0) />
+</div>
 ##
 
