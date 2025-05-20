@@ -31,6 +31,7 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ğŸ˜
  
   ##
 <div>
+  <p align="center">
  <a href="https://instagram.com/seu_usuario" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -52,7 +53,7 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ğŸ˜
 <a href="https://youtube.com/@seu_canal" target="_red">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
+</p>
 
 
 
