@@ -39,7 +39,7 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ğŸ˜
 <a href="https://www.linkedin.com/in/seu_usuario" target="_purple">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:seuemail@gmail.com" target="_orange">
+<a href="mailto:hayanna.castro07@aluno.ifce.edu.br" target="_orange">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/seu_usuario" target="_blue">
