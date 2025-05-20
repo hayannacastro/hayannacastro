@@ -16,7 +16,6 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ğŸ˜
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayannacastro&show_icons=true&theme=light)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayannacastro)](https://github.com/hayannacastro/github-readme-stats)
 
 
