@@ -31,9 +31,29 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ðŸ˜
  
   ##
 <div>
- <a href="https://instagram.com/decastro.xd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- </a>
- <a href = "mailto:hayanna.castro07@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/seu_usuario" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/seu_usuario" target="_purple">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seuemail@gmail.com" target="_orange">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/seu_usuario" target="_blue">
+  <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://discord.com/users/seu_id" target="_gold">
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://dev.to/seu_usuario" target="_pink">
+  <img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://youtube.com/@seu_canal" target="_red">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+
 
 
 <p align="center">
