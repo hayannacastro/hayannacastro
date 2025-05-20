@@ -51,7 +51,7 @@ Eu sou uma desenvolvedora que tem um leve flerte por cÃ³digo e criatividade! ğŸ˜
 <a href="https://dev.to/seu_usuario" target="_pink">
   <img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
-<a href="https://youtube.com/@seu_canal" target="_red">
+<a href="www.youtube.com/@hay.castro07" target="_red">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
