@@ -12,7 +12,7 @@ Eu sou uma desenvolvedora que tem um leve flerte por código e criatividade! �
 - 🚀 Sempre buscando aprender algo novo!
 - 🎯curiosidade : sou jogadora de vôlei.
 - 📚 Gosto muito de Química.
-- 🎶 Admirada por musicais, gospel e internacionais!!!
+- 🎶 Admirada por whorship, gospel e internacionais!!!
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayannacastro&show_icons=true&theme=light)
